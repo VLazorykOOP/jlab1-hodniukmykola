@@ -4,7 +4,6 @@ public class RemoveFirstLetterOccurrences {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Введення тексту
         System.out.println("Введите текст:");
         String text = scanner.nextLine();
 
